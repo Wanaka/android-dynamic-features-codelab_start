@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/bengt.haag/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/.cxx/Debug/c191f3o1/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/bengt.haag/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/.cxx/Debug/c191f3o1/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hello-jni-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/bengt.haag/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/.cxx/Debug/c191f3o1/x86",
+        "hello-jni"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "hello-jni",
+      "output": "/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/build/intermediates/cxx/Debug/c191f3o1/obj/x86/libhello-jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

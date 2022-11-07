@@ -1,0 +1,7 @@
+Executable : /Users/bengt.haag/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/.cxx/Debug/c191f3o1/x86
+hello-jni
+jvmArgs : 
+

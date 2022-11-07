@@ -1,0 +1,3 @@
+/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/.cxx/Debug/c191f3o1/x86/CMakeFiles/rebuild_cache.dir
+/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/.cxx/Debug/c191f3o1/x86/CMakeFiles/edit_cache.dir
+/Users/bengt.haag/Downloads/android-dynamic-features-codelab_start/features/native/.cxx/Debug/c191f3o1/x86/CMakeFiles/hello-jni.dir
